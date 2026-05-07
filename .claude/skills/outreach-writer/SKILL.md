@@ -22,6 +22,16 @@ Share a candidate profile (or reference one from the conversation) and this skil
 
 **If no tone preference is found**, ask once: "Would you like me to write in a casual, professional, or direct tone? You can save your preferred tone in `my-examples/tone.md` for future use."
 
+## Different message types
+
+### Top managers
+
+If I'm recruiting for a top manager role, keep the message very very short. Executive style tone of voice.
+
+### Individual contributors
+
+If I'm recruiting for a software engineer or a similar role, include compensation etc.
+
 ## Tone Rules (Always Apply)
 
 These rules are hardcoded — they override any other style guidance:
